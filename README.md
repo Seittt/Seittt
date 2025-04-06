@@ -25,16 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seittt&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seittt&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🧠 Courses Completed
 
 - ✅ CS50x (Introduction to Computer Science)
